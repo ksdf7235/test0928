@@ -15,7 +15,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import lombok.extern.log4j.Log4j;
 
-//이 클래스가 Controller 기능을 한다는 어노테이션
+//이 클래스가 Controller 기능을 한다는 어노테이션!!
 @Controller
 //실행될 url을 선언
 @RequestMapping("/sample/*")
